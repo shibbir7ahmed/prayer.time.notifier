@@ -1,6 +1,6 @@
 # prayer.time.notifier
 Prayer Time Taskbar Application
-
+Windows app download link- https://www.mediafire.com/file/uws76we8hwmk5yv/Prayer_Time_Notifier.exe/file
 Overview
 The Prayer Time Taskbar Application is a lightweight Windows-based app designed to help Muslims track their daily prayer times. It is especially beneficial for individuals living in non-Muslim countries with limited access to mosques. The application integrates into the Windows system tray for quick and convenient access.
 Features
